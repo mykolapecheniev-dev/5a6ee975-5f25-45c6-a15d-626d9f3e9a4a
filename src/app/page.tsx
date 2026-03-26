@@ -131,7 +131,7 @@ export default function LandingPage() {
           role: "Creative Director",
           company: "DesignCo",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg?_wi=1",
         },
         {
           id: "2",
@@ -139,7 +139,7 @@ export default function LandingPage() {
           role: "Architect",
           company: "Vane Arch",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg?_wi=2",
         },
         {
           id: "3",
@@ -147,7 +147,7 @@ export default function LandingPage() {
           role: "Event Planner",
           company: "Events Pro",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg?_wi=3",
         },
         {
           id: "4",
@@ -155,7 +155,7 @@ export default function LandingPage() {
           role: "Artist",
           company: "Studio X",
           rating: 5,
-          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g6960026b13677ded541edcafa257d933a244d84f80f1f28fbb4e9807d50048043b4bccee8fd10d8cb4a7b2dd3d7986c0cb134ab95a36eb85b299b913e4ad78fe_1280.jpg?_wi=4",
         },
       ]}
       kpiItems={[
